@@ -5,7 +5,7 @@ The Container Storage Interface (CSI) Community Reporsitory contains community r
 
 ## Meeting
 
-We hold a public meeting every two weeks, on Wednesdays at 8 AM (PT).
+We hold a public meeting every two weeks, on Wednesdays at 9 AM (PT).
 
 The meeting is held on Zoom: [meeting link](https://zoom.us/j/790748945).
 Agenda and any notes from each meeting are captured in [this document](https://docs.google.com/document/d/1-oiNg5V_GtS_JBAEViVBhZ3BYVFlbSz70hreyaD7c5Y/edit).
