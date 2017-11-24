@@ -14,3 +14,29 @@ Contributions from the community are are welcome and accepted via pull requests.
 | janitor | Org and repo maintenance. | Minimal subset of approvers required for maintenance. | GitHub repo write access. |
 
 While contributions are accepted from the community at large, to maintain impartiality and the benefit of end users, approvers for CSI are limited to just this core group of CO representatives.
+
+## Voting
+
+Voting on a motion must happen on the mailing list.
+
+A motion can be one of the following:
+* Package releases
+* Procedural issues
+
+### Expressing Votes
+
+Votes are represented as numbers:
+* `+1` means 'yes'
+* `-1` means 'no'
+
+Any `-1` vote must include a list of concerns or links to written documentation for those concerns (e.g. GitHub issues or mailing-list threads).
+
+### Binding Votes
+
+Votes from [approvers](#community-membership) are binding.
+Other members are encouraged to vote, even if their votes are only advisory.
+
+### Passing Criteria
+
+A proposed motion is adopted if it receives `+1` from a quorum of voters that have binding vote privilege, and receives no `-1` binding vote.
+Any `-1` binding vote constitutes a veto and it cannot be overruled nor overridden by anyone. The veto stand until and unless withdrawn by their casters.
