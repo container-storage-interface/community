@@ -23,6 +23,12 @@ A motion can be one of the following:
 * Package releases
 * Procedural issues
 
+### Voting Window
+
+Voting on each motion must specifiy a time window when voters can vote.
+Any vote made outside the time window will not be considered.
+Votes should be permitted to run for at least 72 hours to provide an opportunity for all concerned persons to participate regardless of their geographic locations.
+
 ### Expressing Votes
 
 Votes are represented as numbers:
@@ -38,5 +44,22 @@ Other members are encouraged to vote, even if their votes are only advisory.
 
 ### Passing Criteria
 
-A proposed motion is adopted if it receives `+1` from a quorum of voters that have binding vote privilege, and receives no `-1` binding vote.
-Any `-1` binding vote constitutes a veto and it cannot be overruled nor overridden by anyone. The veto stand until and unless withdrawn by their casters.
+A proposed motion is adopted if:
+* It receives `+1` from more than half of voters that have binding vote privilege.
+* It receives no `-1` binding vote.
+
+A proposed motion is considered rejected if any of the above condition is not met.
+
+Any `-1` binding vote constitutes a veto and it cannot be overruled nor overridden by anyone. The veto stands until and unless withdrawn by their casters.
+
+### Subject Templates
+
+Each proposed motion should use the following subject templates.
+
+#### Proposing a motion
+
+`[VOTE] {Motion Description} (closes {the End of the Voting Window}`
+
+#### Tallying results
+
+`[VOTE RESULT]: {Motion Description}`
