@@ -58,7 +58,7 @@ Each proposed motion should use the following subject templates.
 
 #### Proposing a motion
 
-`[VOTE] {Motion Description} (closes {the End of the Voting Window}`
+`[VOTE] {Motion Description} (closes {the End of the Voting Window})`
 
 #### Tallying results
 
