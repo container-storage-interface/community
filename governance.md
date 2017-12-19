@@ -17,7 +17,7 @@ While contributions are accepted from the community at large, to maintain impart
 
 ## Voting
 
-Voting on a motion must happen on the mailing list.
+Voting on a motion must happen on the [mailing list](https://groups.google.com/forum/#!forum/container-storage-interface-community).
 
 A motion can be one of the following:
 * Package releases
@@ -25,7 +25,7 @@ A motion can be one of the following:
 
 ### Voting Window
 
-Voting on each motion must specify a time window when voters can vote, starting from the time when the motion is posted on the mailing list.
+Voting on each motion must specify a time window when voters can vote, starting from the time when the motion is posted on the [mailing list](https://groups.google.com/forum/#!forum/container-storage-interface-community).
 Any vote made outside the time window will not be considered.
 Votes should be permitted to run for at least 72 hours to provide an opportunity for all concerned persons to participate regardless of their geographic locations.
 Votes must not run more than 1 week.
@@ -56,6 +56,8 @@ Each proposed motion should use the following subject templates.
 #### Proposing a motion
 
 `[VOTE] {Motion Description} (closes {the End of the Voting Window})`
+
+The end of the voting window should be in YYYY-MM-DD hh:mm (ISO 8601) with UTC timezone to avoid ambiguity.
 
 #### Tallying results
 
