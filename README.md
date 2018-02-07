@@ -1,15 +1,54 @@
 # Community
 
-The Container Storage Interface (CSI) Community Repository contains community related content that applies to all repositories in the CSI org.
+This repository contains community related content that applies to all repositories in the CSI org.
+This page documents how to participate in the community.
 
+## How to contribute or get involved?
 
-## Meeting
+The Container Storage Interface (CSI) Community aims to be open, transparent, inclusive, and promote the best ideas.
+Contributions are welcome and encouraged from everyone.
 
-We hold a public meeting every two weeks, on Wednesdays at 9 AM (PT).
+### Github Org
 
-The meeting is held on Zoom: [meeting link](https://zoom.us/j/790748945).
-Agenda and any notes from each meeting are captured in [this document](https://docs.google.com/document/d/1-oiNg5V_GtS_JBAEViVBhZ3BYVFlbSz70hreyaD7c5Y/edit).
-Join container-storage-interface-community@googlegroups.com or email saadali@google.com for a calendar invite.
+If there are issues or changes you would like to see, feel free to open an issue or send out a PR in the appropriate repo (e.g. https://github.com/container-storage-interface/spec/issues).
+The review and approval process is defined in the [governance doc](https://github.com/container-storage-interface/community/blob/master/governance.md).
 
-## Google Group
-CSI community announcements, event invites, and discussions are posted to the [container-storage-interface-community](https://groups.google.com/forum/#!forum/container-storage-interface-community) Google Group. Join the group to participate.
+### Community Meeting
+
+A CSI Community meeting is held every two weeks.
+Everyone is welcome to participate.
+
+#### Details 
+* **When:** Every 2 weeks on Wednesdays at 9 AM (PT)
+  * Join container-storage-interface-community@googlegroups.com or email saadali@google.com for a calendar invite.
+* **Where:** meeting held on Zoom: https://zoom.us/j/790748945
+* **Agenda/Notes:** [link](https://docs.google.com/document/d/1-oiNg5V_GtS_JBAEViVBhZ3BYVFlbSz70hreyaD7c5Y/edit)
+  * Notes from each meeting are captured here.
+* **Past Meeting Recordings:** https://www.youtube.com/playlist?list=PLypWp79Fch09Sv7Vo-mHgEo20cGU7oNBc
+  * Meetings are recorded and posted to Youtube.
+
+### Community Google Group
+CSI community announcements, event invites, and discussions are posted to the [container-storage-interface-community](https://groups.google.com/forum/#!forum/container-storage-interface-community) Google Group.
+Join the group to participate.
+
+## Approvers
+
+The [governance doc](https://github.com/container-storage-interface/community/blob/master/governance.md) defines the role of approvers.
+
+Communities attempting to define industry standards are susceptible to conflict between vendors or becoming primarily focused on a single vendor.
+The governance doc for this project limits membership of approvers to representatives of the COs.
+In order to be successful, CSI must remain vendor neutral and serve the needs of end users.
+
+Ideas, however, should be generated, discussed, debated, and consensus achieved publicly within the community.
+Approvers should only have to step in or "overrule" when absolutely necessary (a vendor is clearly pushing a singularly beneficial agenda, two storage vendors strongly disagree, etc.).
+
+### Approvers Group Meetings
+
+A CSI Approvers Group meeting is held every two weeks.
+Attendance is limited to the approvers as defined in the [governance doc](https://github.com/container-storage-interface/community/blob/master/governance.md).
+
+* **Past Meeting Recordings:**  https://www.youtube.com/playlist?list=PLypWp79Fch0-UWIbv37fdpehM78XMLt9B
+  * Meetings are recorded and posted to Youtube.
+
+### Approvers Mailing List
+Approvers can be reached at container-storage-interface-approvers@googlegroups.com
