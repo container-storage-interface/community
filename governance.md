@@ -17,7 +17,7 @@ While contributions are accepted from the community at large, to maintain impart
 
 ## Voting
 
-Voting on a motion must happen on the [mailing list](https://groups.google.com/forum/#!forum/container-storage-interface-community).
+Voting on a motion must happen on the [community mailing list](https://groups.google.com/forum/#!forum/container-storage-interface-community).
 
 A motion can be one of the following:
 * Package releases
