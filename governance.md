@@ -62,3 +62,13 @@ The end of the voting window should be in YYYY-MM-DD hh:mm (ISO 8601) with UTC t
 #### Tallying results
 
 `[VOTE RESULT]: {Motion Description}`
+
+## Pull Request Rot
+
+| Term | Definition | Synopsis |
+| ---- | ---------- | -------- |
+| Stale | PR has been inactive for 90+ days. | PRs will be labeled as "stale". An inactive, stale PR may be marked "rotten" after 30 days. |
+| Rotten | Stale PR has been inactive for 30+ days. | PRs will be labeled as "rotten". An inactive, rotten PR may be closed after 30 days of being marked "rotten". |
+
+The process of marking PRs as *stale* or *rotten* is currently a manual one.
+In the future this process will be automated.
