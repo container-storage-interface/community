@@ -3,6 +3,10 @@
 This repository contains community related content that applies to all repositories in the CSI org.
 This page documents how to participate in the community.
 
+## Stay Informed
+
+All developers of CSI drivers should join https://groups.google.com/forum/#!forum/container-storage-interface-drivers-announce to remain informed about changes to CSI or cluster orchestrators (like Kubernetes) that may affect existing CSI drivers.
+
 ## How to contribute or get involved?
 
 The Container Storage Interface (CSI) Community aims to be open, transparent, inclusive, and promote the best ideas.
