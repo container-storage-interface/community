@@ -23,11 +23,11 @@ A CSI Community meeting is held every two weeks.
 Everyone is welcome to participate.
 
 #### Details 
-* **When:** Every 2 weeks on Wednesdays at 9 AM (PT)
-  * Join container-storage-interface-community@googlegroups.com or email saadali@google.com for a calendar invite.
-* **Where:** meeting held on Zoom: https://zoom.us/j/790748945
 * **Agenda/Notes:** [link](https://docs.google.com/document/d/1-oiNg5V_GtS_JBAEViVBhZ3BYVFlbSz70hreyaD7c5Y/edit)
   * Notes from each meeting are captured here.
+* **When:** See agenda doc for meeting schedule.
+  * Join container-storage-interface-community@googlegroups.com or copy the meeting invite from the [Shared SIG Storage Calendar](https://calendar.google.com/calendar/embed?src=vvvo48r6cprccii1lsava6p2uc%40group.calendar.google.com) (look for “Container Storage Interface (CSI) Community Sync”).
+* **Where:** meeting held on Zoom. See agenda doc for Zoom meeting link.
 * **Past Meeting Recordings:** https://www.youtube.com/playlist?list=PLypWp79Fch09Sv7Vo-mHgEo20cGU7oNBc
   * Meetings are recorded and posted to Youtube.
 
